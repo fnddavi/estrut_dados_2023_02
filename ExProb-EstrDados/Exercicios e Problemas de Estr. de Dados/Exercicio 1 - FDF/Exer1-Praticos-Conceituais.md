@@ -5,4 +5,3 @@ dependendo da opção, deve ser fornecida uma orientação ao usuário. Exemplo:
 digite “Dúvidas” exiba: “Suas dúvidas devem ser encaminhadas para o email
 duvidas@email.com”. Esse programa deve ser escrito em TypeScript e deve fazer uso do bloco
 switch.**
-
