@@ -1,10 +1,7 @@
-import {promptsync} from "./Ex1-7"
-
+import { promptsync } from "./Ex1-7";
 
 const inUser: string | null = prompt(
-
   "Digite uma opção (1 para DUVIDAS, 2 para RECLAMAÇõES, 3 para SAIR"
-
 );
 
 switch (inUser) {
@@ -21,5 +18,4 @@ switch (inUser) {
   case "3":
     console.log("SAIR");
     break;
-
 }
